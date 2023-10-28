@@ -1,0 +1,20 @@
+.top-bar {
+  height: 8rem;
+  background-color: #4AABF5;
+  padding-top: 5.5rem;
+  .thead {
+    max-width: 50rem;
+    display: flex;
+    color: white;
+    font-size: 1.25rem;
+    justify-content: space-between;
+    margin: 0 auto;
+
+    div {
+      margin: 0 0.5rem;
+      width: 10rem;
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+}
