@@ -29,6 +29,7 @@ const Contest = ({ contest }: { contest: Interfaces.Contest.Contest }) => {
   const platforms = {
     codeforces: "/codeforces.png",
     atcoder: "/atcoder.svg",
+    codechef: "/codechef.svg"
   };
 
   return (

@@ -21,7 +21,6 @@ function App() {
           new Date(a.startTime).getTime() - new Date(b.startTime).getTime()
         );
       });
-      console.log(data);
       setContests(data);
     })();
   }, []);
