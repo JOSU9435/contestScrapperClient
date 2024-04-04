@@ -18,3 +18,14 @@
     }
   }
 }
+
+@media (width < 500px) {
+  .top-bar {
+    .thead {
+      justify-content: center;
+      .head-time {
+        display: none;
+      }
+    }
+  }
+}

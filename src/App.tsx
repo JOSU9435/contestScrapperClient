@@ -29,8 +29,8 @@ function App() {
     <>
       <div className="top-bar">
         <div className="thead">
-          <div>Contest</div>
-          <div>Time</div>
+          <div>Contests</div>
+          <div className="head-time">Time</div>
         </div>
       </div>
       <div className="app">
